@@ -1,0 +1,17 @@
+/node_modules
+/public/hot
+/public/storage
+/public/medias/lesson
+/public/medias/assignments
+/public/medias/tests
+/storage/*.key
+/vendor
+.idea
+.env
+credential_bucket.json
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
